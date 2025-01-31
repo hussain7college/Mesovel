@@ -1,0 +1,24 @@
+{
+  "title": "مرحباً بالعالم!",
+
+  "success": "نجاح",
+  "done": "تم",
+  "error": "خطأ",
+
+  "home": "الرئيسية",
+  "username": "اسم المستخدم",
+  "password": "كلمة المرور",
+  "login": "تسجيل الدخول",
+  "logout": "تسجيل الخروج",
+  "logoutSuccess": "تم تسجيل خروجك بنجاح",
+
+  "areYouSure": "هل أنت متأكد؟",
+  "areYouSureAboutThisAction": "هل أنت متأكد أنك تريد القيام بهذا الإجراء؟",
+  "actionCannotBeUndone": "لا يمكن التراجع عن هذا الإجراء.",
+  "cancel": "إلغاء",
+  "confirm": "تأكيد",
+
+  "search": "البحث",
+  "nothingFound": "لم يتم العثور على أي شيء",
+  "language": "العربية"
+}

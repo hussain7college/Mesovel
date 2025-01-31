@@ -1,0 +1,24 @@
+{
+  "title": "Hello world!",
+
+  "success": "Success",
+  "done": "Done",
+  "error": "Error",
+
+  "home": "Home",
+  "username": "Username",
+  "password": "Password",
+  "login": "Login",
+  "logout": "Logout",
+  "logoutSuccess": "You have been logged out",
+
+  "areYouSure": "Are you sure?",
+  "areYouSureAboutThisAction": "Are you sure you want to perform this action?",
+  "actionCannotBeUndone": "This action cannot be undone.",
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+
+  "search": "Search",
+  "nothingFound": "Nothing found",
+  "language": "English"
+}

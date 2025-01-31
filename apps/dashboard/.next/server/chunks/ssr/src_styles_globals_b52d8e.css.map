@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack://[project]/apps/dashboard/src/styles/globals.css"],"sourcesContent":["html,\nbody {\n  background-color: var(--mantine-color-gray-0);\n}\n  [data-mantine-color-scheme='dark'] html, [data-mantine-color-scheme='dark'] body {\n  background-color: var(--mantine-color-dark-8);\n}\n"],"names":[],"mappings":"AAAA;;;;AAIE"}},
+    {"offset": {"line": 8, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

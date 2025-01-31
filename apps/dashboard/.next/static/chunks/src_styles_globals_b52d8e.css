@@ -1,0 +1,10 @@
+/* [project]/apps/dashboard/src/styles/globals.css [app-client] (css) */
+html, body {
+  background-color: var(--mantine-color-gray-0);
+}
+
+[data-mantine-color-scheme="dark"] html, [data-mantine-color-scheme="dark"] body {
+  background-color: var(--mantine-color-dark-8);
+}
+
+/*# sourceMappingURL=src_styles_globals_b52d8e.css.map*/

@@ -1,0 +1,25 @@
+/* [project]/packages/theme/src/fonts/rubik/rubik_c610aec0.module.css [app-client] (css) */
+@font-face {
+  font-family: rubik;
+  src: url("../media/rubik-s.p.71244716.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: rubik Fallback;
+  src: local(Arial);
+  ascent-override: 91.09%;
+  descent-override: 24.36%;
+  line-gap-override: 0.0%;
+  size-adjust: 102.64%;
+}
+
+.rubik_c610aec0-module__lZ1Yka__className {
+  font-family: rubik, rubik Fallback;
+}
+
+.rubik_c610aec0-module__lZ1Yka__variable {
+  --rubik: "rubik", "rubik Fallback";
+}
+
+/*# sourceMappingURL=%5Bproject%5D_packages_theme_src_fonts_rubik_rubik_c610aec0_module_b52d8e.css.map*/

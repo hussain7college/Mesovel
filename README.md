@@ -1,11 +1,14 @@
-# Novzella
+# Turborepo Starter
 
-API for Novzella chrome extension
+## Needed services
 
-## Description
+- Postgres: Provided by docker
 
-- I'm using nest-js API with swc as compiler
+## Best practices to follow
 
-## License
+- All packages used by one app should be in the same workspace
+- An app may not used packages from other apps
 
-GNU license
+## Where are the secrets?
+
+You need to put the env in dashboard/.env only in production, however in dev when you need to perform migrations you need to put the env in db/.env.example.

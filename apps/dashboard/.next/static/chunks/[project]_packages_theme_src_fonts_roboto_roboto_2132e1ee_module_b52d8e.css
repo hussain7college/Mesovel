@@ -1,0 +1,43 @@
+/* [project]/packages/theme/src/fonts/roboto/roboto_2132e1ee.module.css [app-client] (css) */
+@font-face {
+  font-family: roboto;
+  src: url("../media/roboto_latin_400_normal-s.p.30e07c75.ttf") format("truetype");
+  font-display: swap;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: roboto;
+  src: url("../media/roboto_latin_500_normal-s.p.d5cc8ea0.ttf") format("truetype");
+  font-display: swap;
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: roboto;
+  src: url("../media/roboto_latin_700_normal-s.p.c0584405.ttf") format("truetype");
+  font-display: swap;
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: roboto Fallback;
+  src: local(Arial);
+  ascent-override: 92.49%;
+  descent-override: 24.34%;
+  line-gap-override: 0.0%;
+  size-adjust: 100.3%;
+}
+
+.roboto_2132e1ee-module__RuhxPG__className {
+  font-family: roboto, roboto Fallback;
+}
+
+.roboto_2132e1ee-module__RuhxPG__variable {
+  --font-roboto: "roboto", "roboto Fallback";
+}
+
+/*# sourceMappingURL=%5Bproject%5D_packages_theme_src_fonts_roboto_roboto_2132e1ee_module_b52d8e.css.map*/
