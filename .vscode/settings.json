@@ -1,0 +1,14 @@
+{
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.insertSpaces": true,
+  "editor.defaultFormatter": "biomejs.biome",
+
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+
+  "[markdown][html][yaml][mdx]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
