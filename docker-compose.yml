@@ -4,9 +4,9 @@ services:
     restart: unless-stopped
     container_name: ${POSTGRES_CONTAINER_NAME}
     env_file:
-      - .env.docker
+      - .env
     ports:
-      - "${POSTGRES_HOST_PORT}:${POSTGRES_PORT}"  # Bind host port to container port
+      - "${POSTGRES_PORT}:5432"  # Bind host port to container port
     volumes:
       - postgres-data:/var/lib/postgresql/data
 
